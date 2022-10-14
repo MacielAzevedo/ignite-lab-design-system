@@ -7,6 +7,6 @@ export default {
     args: {
         children: 'Create account',
     },
-    argTypes: {} as Meta<ButtonProps>,
-}
+    argTypes: {},
+} as Meta<ButtonProps>
 export const Default: StoryObj<ButtonProps> = {}

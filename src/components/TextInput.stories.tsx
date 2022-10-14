@@ -19,8 +19,8 @@ export default {
                 disabled: true,
             }
         },
-    } as Meta<TextInputRootProps>,
-}
+    },
+} as Meta<TextInputRootProps>
 export const Default: StoryObj<TextInputRootProps> = {}
 
 export const WithoutIcon: StoryObj<TextInputRootProps> = {

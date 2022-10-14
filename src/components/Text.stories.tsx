@@ -14,9 +14,9 @@ export default {
             control: {
                 type: 'inline-radio',
             }
-        }
-    } as Meta<TextProps>,
-}
+        },
+    } 
+}as Meta<TextProps>
 export const Default: StoryObj<TextProps> = {}
 
 export const Small: StoryObj<TextProps> = {
