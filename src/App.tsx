@@ -1,4 +1,4 @@
-import { SignIn } from './Pages/Signin';
+import { SignIn } from './Pages/SignIn';
 
 import './styles/global.css';
 
